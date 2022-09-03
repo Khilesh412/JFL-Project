@@ -1,0 +1,22 @@
+
+@media screen and (min-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1){
+.Help-Accordian {
+    align-self: center;
+    margin: 2rem;
+    border-bottom: 1px solid #e6e6e6;
+}}
+
+/* section{
+    display: block;
+    background: #CFF;
+    height:36rem;
+    width:100%;
+    padding: 60px;
+    padding-left: 120px;
+    box-sizing:border-box;
+} */
+
+
+.help-Header h2{
+    font-family: regular;
+}

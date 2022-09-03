@@ -1,0 +1,184 @@
+.ContactUsScreen_contact__container__nx7C5 {
+    overflow-x: hidden;
+}
+
+.ContactUsScreen_navbar__2S43x {
+    width: 100%;
+    height: 5rem;
+    background-color: #0078ac;
+    display: flex;
+    justify-content: space-between;
+    padding: 1.5rem;
+}
+
+@media screen and (min-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1){
+.ContactUsScreen_inner-container__1htN5 {
+    width: 50%;
+    padding-left: 2.5rem!important;
+}}
+
+.ContactUsScreen_supportOptions__pWybV ul {
+    align-items: center;
+    align-content: center;
+    border: none;
+    padding-left: 0!important;
+}
+
+.ContactUsScreen_listOptionDiv__3P4xd:first-child {
+    border-bottom: 0.8px solid #bebebe;
+}
+
+.ContactUsScreen_listOptionDiv__3P4xd {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    align-content: left;
+    justify-content: left;
+    padding: 1rem;
+}
+
+.ContactUsScreen_listOptionDiv__3P4xd li {
+    display: flex;
+    width: 100%;
+}
+
+.ContactUsScreen_supportOptions__pWybV li {
+    display: flex;
+    flex-direction: column;
+    list-style-type: none;
+    font-family: MontserratSemibold,sans-serif;
+    font-size: 1rem;
+    color: #707070;
+    height: 4rem;
+    margin-bottom: 1.5rem;
+    cursor: pointer;
+    vertical-align: center;
+    padding-top: 0.5rem;
+}
+
+.ContactUsScreen_listOptionDiv__3P4xd p, .ContactUsScreen_listOptionDiv__3P4xd span {
+    text-align: left;
+}
+.ContactUsScreen_listOptionDiv__3P4xd span {
+    margin-top: 1.2rem;
+    font-family: OS-semibold,sans-serif;
+    font-size: 1.2rem;
+    color: #3d3d3d;
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
+}
+
+.ContactUsScreen_listOptionDiv__3P4xd p, .ContactUsScreen_listOptionDiv__3P4xd span {
+    text-align: left;
+}
+
+.ContactUsScreen_listOptionDiv__3P4xd p {
+    font-family: MontserratMedium,sans-serif;
+    font-size: .8rem;
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
+}
+
+.ContactUsScreen_contact-details__27_uz {
+    margin: 1.25rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.ContactUsScreen_contact-details-note__2OVDJ {
+    font-family: OS-semibold,sans-serif;
+}
+
+@media screen and (min-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1){
+.ContactUsScreen_contact-details-note__2OVDJ li, .ContactUsScreen_contact-details-note__2OVDJ span {
+    font-size: 16px!important;
+}}
+
+.ContactUsScreen_contact-details__27_uz a span {
+    color: #0078ac;
+    text-decoration: underline;
+}
+
+@media screen and (min-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1){
+.ContactUsScreen_contact-details-note__2OVDJ li, .ContactUsScreen_contact-details-note__2OVDJ span {
+    font-size: 16px!important;
+}}
+
+.ContactUsScreen_contact-details__27_uz span {
+    font-family: OS-semibold,sans-serif;
+}
+
+.ContactUsScreen_contactBtn__2Yqx2 {
+    position: absolute;
+    width: 100%;
+    padding: 1.2rem;
+    bottom: 2.5rem;
+}
+
+@media screen and (min-device-width: 1020px) and (-webkit-min-device-pixel-ratio: 1){
+.ContactUsScreen_contactBtn__2Yqx2 button {
+    height: 3rem;
+    align-self: center;
+    background-color: #d2112c;
+    color: #fff;
+    font-family: MontserratSemibold,sans-serif;
+    border: none;
+    border-radius: 0.75rem;
+    width: 20%;
+}}
+
+@media screen and (min-device-width: 768px) and (max-device-width: 1000px) and (-webkit-min-device-pixel-ratio: 1){
+.ContactUsScreen_contactBtn__2Yqx2 button {
+    height: 3rem;
+    align-self: center;
+    background-color: #d2112c;
+    color: #fff;
+    font-family: MontserratSemibold,sans-serif;
+    border: none;
+    border-radius: 0.75rem;
+    width: 75%;
+}}
+
+@media (max-width: 450px){
+.ContactUsScreen_contactBtn__2Yqx2 button {
+    height: 3rem;
+    align-self: center;
+    background-color: #d2112c;
+    color: #fff;
+    font-family: MontserratSemibold,sans-serif;
+    border: none;
+    border-radius: 0.75rem;
+    width: 100%;
+}}
+
+@media screen and (min-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1){
+.ContactUsScreen_contact-timings__3A8hn {
+    justify-content: flex-start!important;
+    padding-left: 1.8rem;
+}}
+
+.ContactUsScreen_contact-timings__3A8hn {
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    bottom: 1rem;
+    width: 100%;
+}
+
+.ContactUsScreen_contact-timings__3A8hn span {
+    font-family: OS-medium,sans-serif;
+}
+
+/* .ContactUsScreen_navbar__2S43x span {
+    color: #fff;
+    font-family: PoppinsRegular,sans-serif;
+    font-size: 1.25rem;
+    margin-left: 1rem;
+} */
+
+@media screen and (min-device-width: 768px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1){
+.ContactUsScreen_contactBtn__2Yqx2 a {
+    display: flex;
+    width: 100%!important;
+    justify-content: center;
+}}

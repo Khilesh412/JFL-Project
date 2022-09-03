@@ -1,0 +1,101 @@
+.refer-offer-title {
+    display: flex;
+    justify-content: center;
+    margin: 1.25rem;
+}
+
+.refer-offer-title h4 {
+    font-family: OS-semibold,sans-serif;
+    text-align: center;
+}
+
+.refer-offer-title h4 span {
+    font-family: OS-bold,sans-serif;
+    color: #0078ac;
+}
+
+.qr-code-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2rem;
+}
+
+.qr-code-wrapper p {
+    font-family: OS-medium,sans-serif;
+    color: #5d5d5d;
+    margin-top: 0.75rem;
+}
+
+@media screen and (min-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1){
+.refer-img-div {
+    display: none;
+}}
+
+.refer-img-div {
+    width: 100%!important;
+    display: flex;
+    position: relative;
+    min-width: 100vw;
+    max-width: 100vw;
+    height: 25vh;
+    z-index: 100!important;
+    padding: 5px;
+    justify-content: center;
+    border-radius: 1rem!important;
+}
+
+.refer-img-div img {
+    display: block;
+    flex-shrink: 0!important;
+    object-fit: cover!important;
+    width: 95vw!important;
+    border-radius: 1rem!important;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.rtf__container .social-share-div {
+    display: flex;
+    flex-direction: column;
+    margin-top: 2rem;
+}
+
+.rtf__container .social-share-div .social-text {
+    margin-left: 1.35rem;
+}
+
+.rtf__container .social-text, .tnc-div {
+    display: flex;
+    justify-content: center;
+}
+
+.rtf__container .social-text span {
+    font-family: OS-medium,sans-serif;
+    color: #5d5d5d;
+}
+
+@media screen and (min-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1){
+.rtf__container .social-icons-wrapper {
+    display: flex;
+    justify-content: center!important;
+    margin-left: 1.5rem;
+}}
+
+@media (max-width: 450px){
+.rtf__container .social-icons-wrapper {
+    display: flex;
+    justify-content: space-evenly!important;
+}}
+
+@media screen and (min-device-width: 768px) and (-webkit-min-device-pixel-ratio: 1){
+.social-icons-wrapper {
+    display: flex!important;
+    justify-content: center!important;
+}}
+
+@media screen and (min-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1){
+.rtf__container .social-icons-wrapper button {
+    margin-right: 1rem;
+}}

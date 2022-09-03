@@ -1,0 +1,218 @@
+.CreditManagementPage_hideLoader__3XX5u {
+    display: none;
+}
+
+@media screen and (min-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1){
+.CreditManagementPage_overlay-box__jjvra img {
+    position: fixed;
+    top: 43%!important;
+    left: 46%!important;
+    width: 5rem;
+    z-index: 1200;
+}}
+
+.CreditManagementPage_overlay-box__jjvra img {
+    position: fixed;
+    top: 43%!important;
+    left: 43%!important;
+    width: 5rem;
+    z-index: 1200;
+}
+
+.CreditManagementPage_creditContainer__thxNZ {
+    scroll-behavior: smooth;
+}
+
+@media screen and (min-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1){
+.CreditManagementPage_navbar__2s8E7 {
+    padding-left: 3rem !important;
+}}
+
+.CreditManagementPage_navbar__2s8E7 {
+    width: 100%;
+    height: 5rem;
+    background-color: #0078ac;
+    display: flex;
+    justify-content: space-between;
+    padding: 1.25rem;
+    align-items: center;
+    cursor: pointer;
+}
+
+.CreditManagementPage_navbar__2s8E7 span {
+    color: #fff;
+    font-family: PoppinsRegular,sans-serif;
+    font-size: 1.25rem;
+    margin-left: 1rem;
+}
+
+@media screen and (min-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1){
+.CreditManagementPage_credit-components-wrap__uDWGD {
+    width: 67%;
+    margin-left: 2rem;
+}}
+
+@media screen and (min-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1){
+.CreditManagementPage_credit-components-wrap__uDWGD .CreditManagementPage_instructionBtn__1g77m {
+    width: 70%;
+}}
+
+.CreditManagementPage_instructionBtn__1g77m button {
+    background-color: #0078ac;
+    height: 3rem;
+    border-radius: 0.75rem;
+    border: none;
+    width: 100%;
+    font-family: MontserratSemibold,sans-serif;
+    color: #fff;
+}
+
+.CreditManagementPage_instructionBtn__1g77m {
+    margin: 1.25rem;
+}
+
+@media screen and (min-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1){
+.CreditManagementPage_noCredits__36ky5 {
+    width: 70%!important;
+}}
+
+.CreditManagementPage_noCredits__36ky5 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 1.25rem;
+}
+
+.CreditManagementPage_noCredits__36ky5 h4 {
+    font-family: MontserratSemibold,sans-serif;
+    color: #5d5d5d;
+    text-align: center;
+}
+
+@media screen and (min-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1){
+.CreditManagementPage_payment-wrapper__2FUcg {
+    display: flex;
+}}
+
+@media screen and (max-device-width: 720px) and (-webkit-min-device-pixel-ratio: 1){
+.CreditManagementPage_creditBox-wrapper__2GHOo, .CreditManagementPage_payable-amount-wrap__1kegU {
+    width: 75%;
+}}
+
+.CreditManagementPage_payable-amount-wrap__1kegU {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 5px;
+    padding-right: 5px;
+    height: 3rem;
+    border: 2px dashed #ff760e;
+    background-color: #fff7f2;
+    border-radius: 0.55rem;
+    width: 90%;
+    margin-left: 1.25rem;
+    margin-right: 1.25rem;
+}
+
+@media screen and (min-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1){
+.CreditManagementPage_pay-btn-wrap__1E1D5 {
+    width: 75%;
+    padding: 0;
+    margin: 0;
+}}
+
+.hideLoader {
+    display: none;
+}
+
+@media screen and (min-device-width: 768px) and (-webkit-min-device-pixel-ratio: 1){
+.overlay-box img {
+    position: fixed;
+    top: 43%!important;
+    left: 46%!important;
+    width: 5rem;
+    z-index: 1200;
+}}
+
+
+.overlay-box img {
+    position: fixed;
+    top: 43%!important;
+    left: 43%!important;
+    width: 5rem;
+    z-index: 1200;
+}
+
+.overlay-box img {
+    z-index: 1200!important;
+}
+
+@media screen and (min-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1){
+.CreditManagementPage_pay-btn-wrap__1E1D5 button {
+    padding: 0;
+    margin: 0!important;
+    width: 43%!important;
+}}
+
+@media screen and (min-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1){
+.CreditManagementPage_pay-reflect-warning__j4sZW {
+    margin: 1rem 1rem 1rem 2.8rem;
+    text-align: left;
+}}
+
+@media screen and (max-device-width: 720px){
+.CreditManagementPage_pay-reflect-warning__j4sZW {
+    margin: 1.1rem;
+    text-align: center;
+}}
+
+.CreditManagementPage_pay-reflect-warning__j4sZW span {
+    font-family: OS-semibold,sans-serif;
+    color: #ff760e;
+}
+
+@media screen and (min-device-width: 720px){
+.CreditManagementPage_bottomBtns__2REew {
+    justify-content: flex-start !important;
+}}
+
+
+.CreditManagementPage_bottomBtns__2REew {
+    display: flex;
+    justify-content: space-between;
+    bottom: 0!important;
+    position: fixed;
+    border-top: 1px solid #bebebe;
+    padding: 1.5rem 1rem;
+    background-color: #fff;
+    width: 100%;
+}
+
+@media screen and (min-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1){
+.CreditManagementPage_bottomBtns__2REew div {
+    margin-right: 3rem!important;
+}}
+
+@media screen and (min-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1){
+.CreditManagementPage_bottomBtns__2REew button {
+    width: 22vw !important;
+    height: 3rem !important;
+}}
+
+
+.CreditManagementPage_bottomBtns__2REew button {
+    width: 45vw;
+    height: 3.5rem;
+    background-color: #d2112c;
+    color: #fff;
+    font-family: MontserratSemibold,sans-serif;
+    border-radius: 0.75rem;
+    border: none;
+}
+
+@media screen and (min-device-width: 768px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1){
+.CreditManagementPage_creditBox-wrapper__2GHOo, .CreditManagementPage_payable-amount-wrap__1kegU {
+    width: 75%;
+    margin-left: 2.5rem;
+}}

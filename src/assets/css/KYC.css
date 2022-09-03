@@ -1,0 +1,682 @@
+@media screen and (min-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1){
+.NavKYC_navKyc__-M7M5 {
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
+}}
+
+.NavKYC_navKyc__-M7M5 {
+    display: flex;
+    background-color: #0078ac;
+    height: 4.5rem;
+    align-items: center;
+    justify-content: space-between;
+    text-align: left;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.NavKYC_navKyc__-M7M5 h5 {
+    color: #fff;
+    font-family: PoppinsRegular,sans-serif;
+    font-size: 1.3rem;
+    margin-left: 1rem;
+    margin-top: 0.3rem;
+}
+
+.KYCStatusbar_statusText__1JqEC {
+    display: flex;
+    width: 12rem;
+    height: 2.5rem;
+    border-radius: 1.5rem;
+    background-color: #f3f3f3;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem 1rem 1rem 0;
+    font-family: OS-semibold,sans-serif;
+}
+
+.KYCStatusbar_statusText__1JqEC span {
+    font-family: OS-semibold,sans-serif;
+    font-size: .85rem;
+    font-weight: 550;
+    color: #000;
+    margin-right: 0.5rem;
+}
+
+.KYCStatusbar_statusText__1JqEC strong {
+    list-style-type: circle!important;
+    font-size: .85rem;
+    font-weight: 600;
+}
+
+@media screen and (min-device-width: 768px) and (-webkit-min-device-pixel-ratio: 1){
+.KYCIntro_steps-wrapper__2ulRQ {
+    margin: 0 3rem;
+}}
+
+.KYCIntro_KycContainer__2XCNS h1 {
+    font-size: 1.25rem;
+    font-weight: 700;
+    margin-left: 1.5rem;
+    margin-top: 1rem;
+}
+
+.InstructionStep_KycContainer__2lWw5 {
+    margin: 1.5rem;
+    border-bottom: 0.5px solid #a5a5a5;
+}
+
+.InstructionStep_KycContainer__2lWw5 span {
+    color: #0078ac;
+    font-size: 1rem;
+    font-family: MontserratSemibold,sans-serif;
+    display: list-item;
+    list-style-type: disc;
+    list-style-position: outside;
+}
+
+@media screen and (min-device-width: 768px) and (-webkit-min-device-pixel-ratio: 1){
+.InstructionStep_StepTitle__128nT {
+    margin-left: 1rem;
+}}
+
+.InstructionStep_StepTitle__128nT {
+    margin-bottom: 0.85rem;
+    margin-left: 0.85rem;
+}
+
+.InstructionStep_KycContainer__2lWw5 p {
+    font-family: MontserratMedium,sans-serif;
+    font-size: .85rem;
+    color: #707070;
+}
+
+@media screen and (min-device-width: 768px) and (-webkit-min-device-pixel-ratio: 1){
+.KYCIntro_KycContainer__2XCNS .KYCIntro_btnDiv__2ikAv {
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 3.5rem;
+}}
+
+@media (max-width: 450px){
+.KYCIntro_KycContainer__2XCNS .KYCIntro_btnDiv__2ikAv {
+    margin: 1.25rem;
+}}
+
+@media screen and (min-device-width: 768px) and (-webkit-min-device-pixel-ratio: 1){
+.KYCIntro_KycContainer__2XCNS button {
+    width: 30% !important;
+}}
+
+.KYCIntro_KycContainer__2XCNS button {
+    width: 100%;
+    background-color: #d2112c!important;
+    align-self: center;
+    color: #fff;
+    font-family: MontserratSemibold,sans-serif;
+    font-size: 1.1rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+    border: none;
+}
+
+.KYCForm_hideLoader__1yvN4 {
+    display: none;
+}   
+
+@media screen and (min-width: 768px) and (-webkit-min-device-pixel-ratio: 1){
+.KYCForm_overlay-box__3VDiP img {
+    position: fixed;
+    top: 43%!important;
+    left: 46%!important;
+    width: 5rem;
+    z-index: 1200;
+}}
+
+.KYCForm_overlay-box__3VDiP img {
+    position: fixed;
+    top: 43%!important;
+    left: 43%!important;
+    width: 5rem;
+    z-index: 1200;
+}
+
+.KYCForm_kycForm__2q2yD {
+    overflow-x: hidden;
+}
+.KYCForm_kycForm__2q2yD {
+    font-family: GilroyMedium,sans-serif;
+}
+
+@media screen and (min-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1){
+.NavKYC_navKyc__-M7M5 {
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
+}}
+
+.NavKYC_navKyc__-M7M5 {
+    display: flex;
+    background-color: #0078ac;
+    height: 4.5rem;
+    align-items: center;
+    justify-content: space-between;
+    text-align: left;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.NavKYC_navKyc__-M7M5 h5 {
+    color: #fff;
+    font-family: PoppinsRegular,sans-serif;
+    font-size: 1.3rem;
+    margin-left: 1rem;
+    margin-top: 0.3rem;
+}
+
+.NavKYC_logoutIcon__2knWC {
+    display: flex;
+    cursor: pointer;
+}
+
+.NavKYC_logoutIcon__2knWC span {
+    color: #fff;
+    font-size: 1.25rem;
+    font-family: MontserratSemibold,sans-serif;
+    margin-right: 5px!important;
+}
+
+.RegisterForm_hideLoader__1PsAC {
+    display: none;
+}
+
+@media screen and (min-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1){
+.RegisterForm_overlay-box__1ubVM img {
+    position: fixed;
+    top: 43%!important;
+    left: 46%!important;
+    width: 5rem;
+    z-index: 1200;
+}}
+
+.RegisterForm_overlay-box__1ubVM img {
+    position: fixed;
+    top: 43%!important;
+    left: 43%!important;
+    width: 5rem;
+    z-index: 1200;
+}
+
+.RegisterForm_kycForm__3rVaM {
+    overflow-x: hidden;
+}
+
+@media screen and (min-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1){
+.RegisterForm_accordion__1noLy, .RegisterForm_bankDetails__bJr0P, .RegisterForm_companyDetails__3mRqa, .RegisterForm_companyDocs__2A2UI, .RegisterForm_declarationAccord__3UA8Y {
+    padding-left: 3rem;
+}}
+
+.RegisterForm_accordion__1noLy {
+    border-bottom: none;
+    margin-bottom: none;
+}
+
+@media screen and (min-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1){
+.RegisterForm_personalDetails__tSGfZ {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding-right: 3rem;
+}}
+
+@media screen and (min-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1){
+.RegisterForm_personalDetails__group1__w1b88 {
+    margin-right: 2rem;
+    width: 50%;
+}}
+
+@media screen and (min-device-width: 768px) and (-webkit-min-device-pixel-ratio: 1){
+.form-group {
+    margin-bottom: 1.5rem;
+}}
+
+.form-group {
+    margin-bottom: 1rem;
+}
+
+.RegisterForm_input-name-label__2np7K {
+    font-family: OS-semibold,sans-serif!important;
+    color: #3d3d3d;
+    padding-left: 6px;
+    font-size: .9rem;
+}
+
+.RegisterForm_input-name-label__2np7K span {
+    color: red;
+    font-size: 1.25rem!important;
+}
+
+.RegisterForm_kycForm__3rVaM form input[type=text] {
+    border-radius: 0.4rem!important;
+    margin-bottom: 0!important;
+    width: 100%!important;
+    height: 3rem;
+    border: 1px solid #707070;
+    color: #2d2d2d;
+    font-family: MontserratMedium,sans-serif;
+}
+
+.invalid-feedback {
+    display: none;
+    width: 100%;
+    margin-top: 0.25rem;
+    font-size: .875em;
+    color: #dc3545;
+}
+
+.form-group .invalid-feedback p {
+    font-family: OS-semibold,sans-serif;
+}
+.RegisterForm_personalDetails__tSGfZ p {
+    color: #d2112c;
+    font-size: .85rem;
+    font-family: OS-semibold;
+}
+
+@media screen and (min-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1){
+.RegisterForm_personalDetails__group2__1EVWu {
+    width: 50%;
+}}
+
+.RegisterForm_gstn-input__1114d {
+    display: flex;
+    height: 2rem!important;
+    width: 60vw!important;
+    background-color: #fff;
+    border-radius: 0.25rem;
+    margin-right: 1rem;
+    text-align: center;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1rem;
+    margin-bottom: 0.75rem;
+}
+
+.css-67l5gl.Mui-expanded {
+    margin: 16px 0px;
+}
+
+.css-67l5gl {
+    background-color: rgb(255, 255, 255);
+    color: rgba(0, 0, 0, 0.87);
+    box-shadow: rgb(0 0 0 / 20%) 0px 2px 1px -1px, rgb(0 0 0 / 14%) 0px 1px 1px 0px, rgb(0 0 0 / 12%) 0px 1px 3px 0px;
+    position: relative;
+    transition: margin 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    overflow-anchor: none;
+    border-radius: 0px;
+}
+
+.MuiButtonBase-root {
+    color: inherit;
+    border: 0;
+    cursor: pointer;
+    margin: 0;
+    display: inline-flex;
+    outline: 0;
+    padding: 0;
+    position: relative;
+    align-items: center;
+    -webkit-user-select: none;
+    user-select: none;
+    border-radius: 0;
+    vertical-align: middle;
+    -moz-appearance: none;
+    justify-content: center;
+    text-decoration: none;
+    background-color: transparent;
+    -webkit-appearance: none;
+    -webkit-tap-highlight-color: transparent;
+}
+
+.RegisterForm_fileUpload__2-6U2 label {
+    margin-bottom: 1rem;
+    color: #5d5d5d;
+    font-family: MontserratSemibold,sans-serif!important;
+    font-weight: 600;
+}
+@media screen and (min-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1){
+.RegisterForm_customFileUploadLabel__1_FdB, .RegisterForm_kycForm__3rVaM form .RegisterForm_form-group__1QUzu label {
+    width: 75%;
+}}
+
+.RegisterForm_customFileUploadLabel__1_FdB {
+    font-size: "0.75rem";
+}
+.RegisterForm_customFileUploadLabel__1_FdB, .RegisterForm_kycForm__3rVaM form .RegisterForm_form-group__1QUzu label {
+    display: flex;
+    height: 2.5rem;
+    width: 60vw;
+    border: 1px solid #bebebe!important;
+    background-color: #fff;
+    border-radius: 0.25rem;
+    margin-right: 1rem;
+    text-align: center;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1rem;
+    margin-bottom: 0;
+}
+label {
+    display: inline-block;
+}
+
+.RegisterForm_kycForm__3rVaM .RegisterForm_fileUpload__2-6U2 button {
+    width: 80vw;
+    height: 3rem;
+    width: 6rem;
+    height: 2.5rem;
+    margin-top: 1rem;
+}
+
+.RegisterForm_kycForm__3rVaM .RegisterForm_fileUpload__2-6U2 button, .RegisterForm_submitBtn__3rwob button {
+    background-color: #d2112c;
+    border: none;
+    border-radius: 0.5rem;
+    font-family: MontserratSemibold,sans-serif;
+    color: #fff;
+    font-size: 1rem;
+    font-weight: 600;
+    text-align: center;
+}
+
+.RegisterForm_fileUpload__2-6U2 label {
+    margin-bottom: 1rem;
+    color: #5d5d5d;
+    font-family: MontserratSemibold,sans-serif!important;
+    font-weight: 600;
+}
+.RegisterForm_customFileUploadLabel__1_FdB, .RegisterForm_kycForm__3rVaM form .RegisterForm_form-group__1QUzu label {
+    display: flex;
+    height: 2.5rem;
+    width: 60vw;
+    border: 1px solid #bebebe!important;
+    background-color: #fff;
+    border-radius: 0.25rem;
+    margin-right: 1rem;
+    text-align: center;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1rem;
+    margin-bottom: 0;
+}
+.RegisterForm_customFileUploadLabel__1_FdB {
+    font-size: "0.75rem";
+}
+@media screen and (min-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1){
+.RegisterForm_customFileUploadLabel__1_FdB, .RegisterForm_kycForm__3rVaM form .RegisterForm_form-group__1QUzu label {
+    width: 75%;
+}}
+
+.RegisterForm_customFileUploadLabel__1_FdB span {
+    color: #d2112c;
+}
+
+@media screen and (min-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1){
+.RegisterForm_gst-part-wrap__1PAdk {
+    width: 35%!important;
+}}
+
+.RegisterForm_kycForm__3rVaM strong {
+    font-family: OS-semibold,sans-serif;
+    font-size: 1.25rem;
+}
+
+.RegisterForm_fileNameSpan__3kNLG {
+    color: #0078ac;
+    font-family: GilroyBold,sans-serif;
+}
+
+.RegisterForm_fileUpload__2-6U2 p {
+    font-family: MontserratMedium,sans-serif;
+    font-size: .8rem;
+    color: #d2112c;
+    font-weight: 600;
+}
+
+.RegisterForm_kycForm__3rVaM .RegisterForm_multi_GST_declare__1rS1x {
+    font-family: MontserratMedium,sans-serif;
+    color: #5d5d5d;
+}
+
+.MuiCheckbox-root {
+    color: rgba(0, 0, 0, 0.54);
+}
+
+.MuiIconButton-label {
+    width: 100%;
+    display: flex;
+    align-items: inherit;
+    justify-content: inherit;
+}
+
+@media screen and (min-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1){
+.RegisterForm_gst-part-wrap__1PAdk input {
+    width: 35%;
+}}
+input[type=checkbox] {
+    color: #d2112c!important;
+}
+
+.jss4 {
+    top: 0;
+    left: 0;
+    width: 100%;
+    cursor: inherit;
+    height: 100%;
+    margin: 0;
+    opacity: 0;
+    padding: 0;
+    z-index: 1;
+    position: absolute;
+}
+
+.MuiTouchRipple-root {
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 0;
+    overflow: hidden;
+    position: absolute;
+    border-radius: inherit;
+    pointer-events: none;
+}
+
+.RegisterForm_kycForm__3rVaM .RegisterForm_multi_GST_declare__1rS1x label span {
+    font-size: .9rem!important;
+}
+
+.RegisterForm_no_GST_declare__2MuoE {
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: 1rem;
+}
+
+.RegisterForm_no_GST_declare__2MuoE label span {
+    font-family: GilroyMedium,sans-serif;
+    color: #5d5d5d;
+    font-size: .85rem;
+}
+
+@media screen and (min-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1){
+.RegisterForm_kycForm__3rVaM form .RegisterForm_form-group__1QUzu .RegisterForm_pan-input__143vj {
+    width: 75%!important;
+}}
+
+.RegisterForm_pan-input__143vj {
+    display: flex;
+    height: 2.5rem;
+    width: 60vw!important;
+    background-color: #fff;
+    border-radius: 0.25rem;
+    margin-right: 1rem;
+    text-align: center;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1rem;
+    margin-bottom: 0;
+    font-size: "0.75rem";
+}
+
+.RegisterForm_kycForm__3rVaM .RegisterForm_form-group__1QUzu {
+    margin-bottom: 1rem;
+}
+
+@media screen and (min-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1){
+.RegisterForm_pan-part-wrap__1744S {
+    width: 35%!important;
+}}
+
+.jss1 {
+    padding: 9px;
+}
+
+@media screen and (min-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1){
+.RegisterForm_inputGroup-wrap__2wLi8 {
+    display: flex;
+    width: 120%;
+}}
+
+@media screen and (min-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1){
+.RegisterForm_bankDetailsContainer__inputGroup1__3NEcI {
+    margin-right: 3rem;
+}}
+
+@media screen and (min-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1){
+.RegisterForm_bankDetailsContainer__1Tjf8 .RegisterForm_customFileUploadLabel__1_FdB {
+    width: 55%!important;
+}}
+
+.form-control[type=file]:not(:disabled):not([readonly]) {
+    cursor: pointer;
+}
+.form-control[type=file] {
+    overflow: hidden;
+}
+.RegisterForm_fileUpload__2-6U2 input {
+    border: none;
+}
+input[type=file] {
+    margin: 0;
+    border-radius: 0;
+    color: #d2112c;
+    font-weight: 500;
+}
+.RegisterForm_bankDetailsContainer__1Tjf8 input {
+    border: 1px solid #bebebe!important;
+    width: 100%;
+    height: 2.6rem;
+    border-radius: 0.4rem;
+    font-family: OS-medium,sans-serif!important;
+}
+
+@media screen and (min-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1){
+.RegisterForm_bankDetailsContainer__1Tjf8 {
+    width: 40vw!important;
+}}
+
+.RegisterForm_kycForm__3rVaM strong {
+    font-family: OS-semibold,sans-serif;
+    font-size: 1.25rem;
+}
+
+.termsNConditions {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    font-size: .85rem!important;
+}
+
+@media screen and (min-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1){
+.RegisterForm_submitBtn__3rwob {
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 3rem;
+}}
+
+@media screen and (max-device-width: 450px){
+.RegisterForm_submitBtn__3rwob {
+    display: flex;
+    justify-content: center;
+    margin: 1.25rem;
+}}
+
+@media screen and (min-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1){
+.RegisterForm_submitBtn__3rwob button {
+    width: 30% !important;
+}}
+
+.RegisterForm_submitBtn__3rwob button {
+    width: 100%;
+    height: 3rem;
+}
+
+.css-67l5gl:first-of-type {
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+}
+
+.css-67l5gl.Mui-expanded:first-of-type {
+    margin-top: 0px;
+}
+
+.RegisterForm_fileUpload__2-6U2 button {
+    width: 80vw;
+    height: 3rem;
+    width: 6rem;
+    height: 2.5rem;
+    margin-top: 1rem;
+}
+.RegisterForm_fileUpload__2-6U2 button, .RegisterForm_submitBtn__3rwob button {
+    background-color: #d2112c;
+    border: none;
+    border-radius: 0.5rem;
+    font-family: MontserratSemibold,sans-serif;
+    color: #fff;
+    font-size: 1rem;
+    font-weight: 600;
+    text-align: center;
+}
+.RegisterForm_gstn-input__1114d input[type=text] {
+    border-radius: 0.4rem!important;
+    margin-bottom: 0!important;
+    width: 100%!important;
+    height: 3rem;
+    border: 1px solid #707070;
+    color: #2d2d2d;
+    font-family: MontserratMedium,sans-serif;
+}
+
+.RegisterForm_pan-input__143vj input[type=text] {
+    border-radius: 0.4rem!important;
+    margin-bottom: 0!important;
+    width: 100%!important;
+    height: 3rem;
+    border: 1px solid #707070;
+    color: #2d2d2d;
+    font-family: MontserratMedium,sans-serif;
+}
+
+@media screen and (min-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1){
+.RegisterForm_form-group__1QUzu .RegisterForm_pan-input__143vj {
+    width: 75%!important;
+}}
+
+.RegisterForm_submitBtn__3rwob {
+    display: flex;
+    justify-content: flex-start;;
+    margin: 1.25rem;
+}

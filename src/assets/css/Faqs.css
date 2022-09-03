@@ -1,0 +1,75 @@
+@media screen and (min-device-width: 768px) and (-webkit-min-device-pixel-ratio: 1){
+.FAQ_faq-container__16svK h4 {
+    margin-left: 2.5rem;
+}}
+
+.FAQ_faq-container__16svK h4 {
+    margin: 1.25rem;
+    font-family: OS-bold,sans-serif;
+}
+
+@media screen and (min-device-width: 768px) and (-webkit-min-device-pixel-ratio: 1){
+.FAQ_settingOptions__3Dg0t {
+    padding: 2.5rem;
+}}
+
+.FAQ_settingOptions__3Dg0t {
+    align-self: center;
+    padding: 1rem;
+}
+
+.FAQ_settingOptions__3Dg0t ul {
+    align-items: center;
+    align-content: center;
+}
+
+@media screen and (min-device-width: 768px) and (-webkit-min-device-pixel-ratio: 1){
+.FAQ_settingOptions__3Dg0t li {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+}}
+
+.FAQ_settingOptions__3Dg0t li {
+    width: 100%;
+    list-style-type: none;
+    height: 4rem;
+    padding-bottom: 1rem!important;
+    padding-top: 1rem!important;
+    vertical-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid #bebebe;
+}
+
+.FAQ_icon__gxvPd {
+    margin-right: 1rem;
+}
+
+.FAQ_settingOptions__3Dg0t li span {
+    font-family: MontserratSemibold,sans-serif;
+    font-size: 1.08rem;
+    color: #5d5d5d;
+}
+
+.FAQ_settingOptions__3Dg0t .FAQ_rightArrow__2sgjH {
+    float: right;
+    margin-right: 1rem;
+    cursor: pointer;
+}
+
+.accordion-button {
+    position: relative;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 1rem 1.25rem;
+    font-size: 1rem;
+    color: #212529;
+    text-align: left;
+    background-color: #fff;
+    border: 0;
+    border-radius: 0;
+    overflow-anchor: none;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out,border-radius .15s ease;
+}

@@ -1,0 +1,181 @@
+.AboutUsScreen_logoDiv__Vy28c {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2rem;
+}
+
+.AboutUsScreen_logoDiv__Vy28c img {
+    width: 8rem;
+    height: 6rem;
+}
+
+@media screen and (min-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1){
+.AboutUsScreen_settingOptions__OHsEs {
+    align-self: center;
+    margin: 2rem;
+    border-bottom: 1px solid #e6e6e6;
+}}
+
+@media screen and (max-device-width: 720px) and (-webkit-min-device-pixel-ratio: 1){
+.AboutUsScreen_settingOptions__OHsEs {
+    align-self: center;
+    margin: 2rem 0rem;
+    border-bottom: 1px solid #e6e6e6;
+}}
+
+.accordion-header {
+    margin-bottom: 0;
+}
+
+@media (min-width: 1200px){
+.h2, h2 {
+    font-size: 2rem;
+}}
+
+
+.accordion-item:first-of-type .accordion-button {
+    border-top-left-radius: calc(0.25rem - 1px);
+    border-top-right-radius: calc(0.25rem - 1px);
+}
+
+.accordion-button:not(.collapsed) {
+    color: #0c63e4;
+    background-color: #e7f1ff;
+    box-shadow: inset 0 -1px 0 rgb(0 0 0 / 13%);
+}
+
+[type=button]:not(:disabled), [type=reset]:not(:disabled), [type=submit]:not(:disabled), button:not(:disabled) {
+    cursor: pointer;
+}
+
+.accordion-button {
+    position: relative;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 1rem 1.25rem;
+    font-size: 1rem;
+    color: #212529;
+    text-align: left;
+    background-color: #fff;
+    border: 0;
+    border-radius: 0;
+    overflow-anchor: none;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out,border-radius .15s ease;
+}
+
+.AboutUsScreen_accord-header__3mFUw strong {
+    font-family: MontserratBold,sans-serif!important;
+    font-size: 1rem!important;
+}
+strong {
+    font-family: GilroyBold,sans-serif;
+    font-size: 1.25rem;
+    font-weight: 550;
+}
+
+.AboutUsScreen_accord-body__Lr85g {
+    background-color: #f1f0ee!important;
+    text-align: justify;
+}
+.accordion-body {
+    padding: 1rem 1.25rem;
+}
+
+.AboutUsScreen_accord-body__Lr85g p {
+    text-align: justify;
+    font-size: 1rem!important;
+}
+
+.AboutUsScreen_contact-details__64PfB {
+    display: flex;
+    flex-direction: column;
+    text-align: left!important;
+}
+
+.AboutUsScreen_contact-details__64PfB strong {
+    font-family: MontserratBold,sans-serif!important;
+    font-size: 1rem;
+    text-align: left!important;
+}
+
+@media screen and (min-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1){
+.AboutUsScreen_accord-body__Lr85g .AboutUsScreen_accord-span__rmjK0, .AboutUsScreen_accord-body__Lr85g span {
+    font-size: 16px!important;
+}}
+
+.AboutUsScreen_contact-details__64PfB span {
+    font-family: MontserratSemibold,sans-serif!important;
+}
+
+.AboutUsScreen_contact-details__64PfB a span {
+    color: #0078ac;
+    text-decoration: underline;
+}
+
+@media screen and (min-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1){
+.AboutUsScreen_accord-body__Lr85g .AboutUsScreen_accord-span__rmjK0, .AboutUsScreen_accord-body__Lr85g span {
+    font-size: 16px!important;
+}}
+
+.AboutUsScreen_contact-details__64PfB span {
+    font-family: MontserratSemibold,sans-serif!important;
+}
+
+.accordion-item:not(:first-of-type) {
+    border-top: 0;
+}
+
+.accordion-item {
+    background-color: #fff;
+    border: 1px solid rgba(0,0,0,.125);
+}
+
+.accordion-header {
+    margin-bottom: 0;
+}
+
+.accordion-button {
+    position: relative;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 1rem 1.25rem;
+    font-size: 1rem;
+    color: #212529;
+    text-align: left;
+    background-color: #fff;
+    border: 0;
+    border-radius: 0;
+    overflow-anchor: none;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out,border-radius .15s ease;
+}
+
+.AboutUsScreen_accord-header__3mFUw strong {
+    font-family: MontserratBold,sans-serif!important;
+    font-size: 1rem!important;
+}
+
+.collapse:not(.show) {
+    display: none;
+}
+
+.AboutUsScreen_accord-body__Lr85g {
+    background-color: #f1f0ee!important;
+    text-align: justify;
+}
+.accordion-body {
+    padding: 1rem 1.25rem;
+}
+
+.AboutUsScreen_accord-body__Lr85g p {
+    text-align: justify;
+    font-size: 1rem!important;
+}
+
+.AboutUsScreen_pp-body__fnSVP p, .AboutUsScreen_tnc-body__1SyXd p {
+    color: #d2112c;
+    text-decoration: underline;
+}

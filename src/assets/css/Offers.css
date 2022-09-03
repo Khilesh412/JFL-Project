@@ -1,0 +1,94 @@
+@media screen and (min-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1){
+.offers-wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 0.5rem;
+}}
+
+.OfferBox_offerBox__1MQTJ {
+    background-color: #f7f7f7;
+    padding: 1rem;
+    border-radius: 0.75rem;
+    box-shadow: 10px 10px 30px rgb(0 0 0 / 20%);
+}
+.OfferBox_offerBox__upperPart__3HWUG {
+    display: flex;
+    border-bottom: 0.7px solid #bebebe;
+    margin-bottom: 1rem;
+}
+
+.OfferBox_offerAvatar__920De {
+    display: flex;
+    justify-content: center;
+    border-radius: 50%;
+    padding: 0.75rem;
+    background-color: #d1e1f1;
+    width: 4rem;
+    height: 4rem;
+    margin-right: 1rem;
+}
+
+.OfferBox_offerAvatar__920De img {
+    object-fit: contain!important;
+    padding: 3.5px;
+}
+
+.OfferBox_upperPart__text__T1Scl span {
+    font-family: OS-bold,sans-serif;
+    font-size: 1.35rem;
+}
+
+.OfferBox_upperPart__text__T1Scl p {
+    font-family: OS-medium,sans-serif;
+    font-size: .9rem!important;
+}
+
+.OfferBox_offerBox__lowerPart__1sbmp {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.OfferBox_lowerPart__leftPart__33ELX {
+    display: flex;
+    flex-direction: column;
+}
+
+.OfferBox_lowerPart__leftPart__33ELX span {
+    font-family: MontserratMedium,sans-serif;
+}
+
+.OfferBox_offerCode-wrapper__2hEn4 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center!important;
+    align-items: center;
+}
+
+.OfferBox_offerCode-wrapper__2hEn4 span {
+    font-family: OS-semibold,sans-serif;
+    color: #5d5d5d;
+}
+
+.NavCheckout_back-btn-div__2KGYR {
+    cursor: pointer;
+}
+
+@media screen and (min-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1){
+.NavCheckout_navbar__3Ly9V {
+    width: 100%;
+    height: 4.5rem;
+    background-color: #0078ac;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2.5rem;
+}}
+
+.span2 {
+    color: #fff;
+    font-family: PoppinsRegular,sans-serif;
+    font-size: 1.25rem;
+    margin-left: 1rem;
+}
+

@@ -1,0 +1,642 @@
+@media screen and (min-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1){
+.LoginScreen_loginScreen__2om0T {
+    justify-content: center!important;
+    align-items: center;
+}}
+
+.LoginScreen_loginScreen__2om0T {
+    display: flex;
+    flex-direction: column;
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
+    height: auto;
+}
+
+a {
+    text-decoration: none!important;
+    color: inherit!important;
+}
+
+@media (max-width: 40px){
+.LoginScreen_loginScreen__2om0T {
+    width: 500px;
+}}
+
+@media (max-width: 450px){
+.LoginScreen_loginForm__1ZuZ_ .LoginScreen_show-hide-btn__2i4UK {
+    position: fixed;
+    margin: 0.75rem;
+    right: 1.85rem;
+}}
+
+.LoginScreen_homeBtn__3x62g {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 45px;
+    height: 45px;
+    background-color: #fff;
+    border-radius: 50%;
+    box-shadow: 0 0 50px #ccc;
+    position: fixed;
+    right: 1rem;
+    top: 1rem;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+}
+
+img, svg {
+    vertical-align: middle;
+}
+
+@media screen and (min-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1){
+.LoginScreen_loginForm__1ZuZ_ {
+    width: 35vw!important;
+    border: 1px solid #bebebe!important;
+    padding: 2rem;
+    border-radius: 0.8rem;
+}}
+
+.LoginScreen_loginForm__1ZuZ_ {
+    display: flex;
+    flex-direction: column;
+    margin-top: 22vh;
+    align-items: center;
+    width: 100%;
+}
+
+button, div, p, span {
+    font-family: "GilroyMedium",sans-serif;
+}
+
+.LoginScreen_loginForm__1ZuZ_ img {
+    width: 8.5rem;
+    display: block;
+    margin-bottom: 2rem;
+}
+img, svg {
+    vertical-align: middle;
+}
+
+.label1{
+    color: rgb(156, 155, 155);
+    position: absolute;
+    margin: 1rem;
+    z-index: 1;
+}
+
+.LoginScreen_loginForm__1ZuZ_ form {
+    width: 100%!important;
+}
+
+@media screen and (min-device-width: 768px) and (-webkit-min-device-pixel-ratio: 1){
+.form-group {
+    margin-bottom: 1.5rem;
+}}
+
+.form-group {
+    margin-bottom: 1rem;
+}
+
+.invalid-feedback {
+    display: none;
+    width: 100%;
+    margin-top: 0.25rem;
+    font-size: .875em;
+    color: #dc3545;
+}
+
+.form-group .invalid-feedback p {
+    font-family: OS-semibold,sans-serif;
+}
+
+@media screen and (min-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1){
+.LoginScreen_loginForm__1ZuZ_ .LoginScreen_show-hide-btn__2i4UK {
+    right: 35vw !important;
+}}
+
+@media screen and (min-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1){
+.LoginScreen_loginForm__1ZuZ_ .LoginScreen_show-hide-btn__2i4UK {
+    position: absolute;
+    margin: 0.75rem;
+    right: 1.85rem;
+}}
+
+@media screen and (min-device-width: 768px) and (-webkit-min-device-pixel-ratio: 1){
+    .LoginScreen_loginForm__1ZuZ_ .LoginScreen_show-hide-btn__2i4UK {
+        position: absolute;
+        margin: 0.75rem;
+        right: 13.85rem;
+    }}
+
+.form-control {
+    display: block;
+    width: 100%;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    -webkit-appearance: none;
+    appearance: none;
+    border-radius: 0.25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.LoginScreen_loginForm__1ZuZ_ input[type=password] {
+    padding-left: 80px;
+}
+
+.LoginScreen_container__njD8x .LoginScreen_loginScreen__2om0T .LoginScreen_loginForm__1ZuZ_ input[type=email], .LoginScreen_loginForm__1ZuZ_ input[type=password], input[type=password], input[type=text] {
+    width: 100%;
+    height: 3rem;
+    border: 1px solid #707070;
+    font-family: MontserratMedium,sans-serif;
+}
+
+.LoginScreen_loginForm__1ZuZ_ input {
+    border-radius: 1.5rem!important;
+    font-family: MontserratMedium,sans-serif;
+    border: none!important;
+    padding-left: 80px;
+
+}
+
+.LoginScreen_rememberDiv__Poig0 {
+    width: 100%;
+    display: flex;
+    justify-content: space-between!important;
+    align-items: center!important;
+}
+
+.LoginScreen_rememberMe__3LSWq {
+    display: flex;
+}
+
+
+
+.LoginScreen_rememberDiv__Poig0 span {
+    padding: 0px;
+    color: #d2112c;
+    font-family: MontserratSemibold,sans-serif;
+    font-size: 1rem;
+}
+
+.span1 {
+    color: rgb(93, 93, 93) !important ;
+    font-family: MontserratSemibold !important;
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+@media screen and (min-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1){
+.LoginScreen_login-btn-wrapper__WJO1D {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}}
+
+[type=button]:not(:disabled), [type=reset]:not(:disabled), [type=submit]:not(:disabled), button:not(:disabled) {
+    cursor: pointer;
+}
+
+@media screen and (min-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1){
+.LoginScreen_loginForm__1ZuZ_ button {
+    width: 75% !important;
+}}
+
+.LoginScreen_loginForm__1ZuZ_ button {
+    width: 100%;
+    background-color: #d2112c;
+    border: none;
+    border-radius: 0.5rem;
+    height: 3rem;
+    font-family: MontserratSemibold,sans-serif;
+    color: #fff;
+    font-size: 1rem;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+
+.svg{
+    color: rgb(156, 155, 155);
+     position: absolute;
+      margin: 1rem;
+     z-index: 1;
+}
+
+.MuiSvgIcon-root {
+    fill: currentColor;
+    width: 1em;
+    height: 1em;
+    display: inline-block;
+    font-size: 1.5rem;
+    transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    flex-shrink: 0;
+    user-select: none;
+}
+
+input[type=checkbox] {
+    color: #d2112c!important;
+}
+
+
+
+.center{
+    display: flex;
+     justify-content: center;
+}
+
+.LoginScreen_signupLink__17MQE span {
+    margin-top: 0!important;
+    color: #d2112c;
+    font-family: MontserratSemibold,sans-serif;
+    font-weight: 600;
+    font-size: 1rem;
+}
+
+.LoginScreen_container__njD8x {
+    height: 100vh;
+    background-color: #e8e8e8;
+}
+
+@media screen and (min-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1){
+.LoginScreen_overlay-box__2gcPr img {
+    position: fixed;
+    top: 43%!important;
+    left: 46%!important;
+    width: 5rem;
+    z-index: 1200;
+}}
+
+.LoginScreen_overlay-box__2gcPr img {
+    position: fixed;
+    top: 43%!important;
+    left: 43%!important;
+    width: 5rem;
+    z-index: 1200;
+}
+
+.jss4 {
+    top: 454px;
+    left: 530px;
+    cursor: inherit;
+    margin: 0;
+    padding: 0;
+    z-index: 1;
+    position: absolute;
+}
+
+
+@media screen and (min-device-width: 768px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1){
+.LoginScreen_loginScreen__2om0T {
+    justify-content: center!important;
+    align-items: center;
+}}
+
+@media screen and (min-device-width: 768px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1){
+.LoginScreen_loginForm__1ZuZ_ {
+    width: 55vw!important;
+    border: 1px solid #bebebe!important;
+    padding: 2rem;
+    border-radius: 0.8rem;
+}}
+
+.ProfileScreen_mainContainer__8kCdN {
+    border-bottom: none;
+}
+
+.ProfileScreen_navbar__3CwYF {
+    width: 100%;
+    height: 5rem;
+    background-color: #0078ac;
+    display: flex;
+    justify-content: space-between;
+    padding: 1.5rem;
+}
+
+.ProfileScreen_navbar__3CwYF span {
+    color: #fff;
+    font-family: PoppinsRegular,sans-serif;
+    font-size: 1.25rem;
+    margin-left: 1rem;
+}
+
+@media screen and (min-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1){
+.ProfileScreen_data-options-wrap__1-KcH {
+    display: flex;
+    justify-content: space-between;
+}}
+
+@media screen and (min-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1){
+.ProfileScreen_basicDataContainer__8bKF1 {
+    width: 50%;
+}}
+
+.ProfileScreen_basicDataContainer__8bKF1 {
+    background-color: #f1f0ee;
+    border-bottom: none;
+}
+
+.ProfileScreen_nameContainer__2GvPL {
+    display: flex;
+    flex-direction: row;
+    padding: 2rem 1.5rem 2rem 1rem;
+}
+
+.ProfileScreen_nameContainer__2GvPL .ProfileScreen_userInfo__zR5ma {
+    margin-top: 0.65rem;
+    margin-left: 1rem;
+}
+.ProfileScreen_userInfo__zR5ma {
+    display: flex;
+    flex-direction: column;
+}
+
+.ProfileScreen_userInfo__zR5ma h1 {
+    font-family: OS-bold,sans-serif;
+    margin-bottom: 0;
+    font-weight: 600;
+}
+
+.ProfileScreen_userInfo__zR5ma span {
+    font-family: MontserratMedium,sans-serif;
+    color: #5d5d5d;
+}
+
+.ProfileScreen_phoneEmailContainer__2Ng0F {
+    margin-left: 1.7rem;
+    padding-bottom: 1rem;
+}
+
+.ProfileScreen_phoneEmailContainer__2Ng0F p {
+    color: #0f0e0f;
+    font-family: MontserratMedium,sans-serif;
+}
+
+@media screen and (min-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1){
+.ProfileScreen_settingOptions__1baHu {
+    display: flex;
+    justify-content: center!important;
+    align-items: center!important;
+}}
+
+.ProfileScreen_settingOptions__1baHu {
+    align-self: center;
+    margin: 2rem 0;
+}
+
+.ProfileScreen_settingOptions__1baHu ul {
+    align-items: center;
+    align-content: center;
+    padding-right: 2rem!important;
+}
+
+@media screen and (min-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1){
+.ProfileScreen_options-wrapper__1SDXz {
+    display: inline-grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 2rem;
+}}
+
+@media screen and (min-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1){
+.ProfileScreen_settingOptions__1baHu li {
+    border-bottom: none;
+}}
+
+.ProfileScreen_settingOptions__1baHu li {
+    width: 100%;
+    list-style-type: none;
+    height: 3rem;
+    margin-bottom: 1rem;
+    padding-right: 1rem;
+    vertical-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /* border-bottom: 1px solid #bebebe; */
+}
+
+.ProfileScreen_settingOptions__1baHu li span {
+    font-family: MontserratSemibold,sans-serif;
+    font-size: 1.08rem;
+    color: #5d5d5d;
+    font-weight: 600;
+}
+
+@media screen and (min-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1){
+.ProfileScreen_logoutBtn__2fu98 {
+    width: 25vw;
+}}
+
+.ProfileScreen_logoutBtn__2fu98 {
+    margin: 2rem;
+}
+
+.ProfileScreen_logoutBtn__2fu98 button {
+    height: 3rem;
+    align-self: center;
+    background-color: #d2112c;
+    color: #fff;
+    font-family: MontserratSemibold,sans-serif;
+    border: none;
+    border-radius: 0.75rem;
+    width: 100%;
+}
+
+.ProfileScreen_icon__35gEY {
+    margin-right: 1rem;
+}
+
+.ProfileScreen_settingOptions__1baHu .ProfileScreen_rightArrow__3rYv6 {
+    float: right;
+    margin-right: 3rem;
+    cursor: pointer;
+}
+
+.hideLoader {
+    display: none;
+}
+
+@media screen and (min-device-width: 768px) and (-webkit-min-device-pixel-ratio: 1){
+.overlay-box img {
+    position: fixed;
+    top: 43%!important;
+    left: 46%!important;
+    width: 5rem;
+    z-index: 1200;
+}}
+
+.overlay-box img {
+    position: fixed;
+    top: 43%!important;
+    left: 43%!important;
+    width: 5rem;
+    z-index: 1200;
+}
+
+.userDp-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 1.25rem;
+    background-color: #e6e6e6;
+    margin-bottom: 1rem;
+}
+
+@media screen and (min-device-width: 768px) and (-webkit-min-device-pixel-ratio: 1){
+.form-title {
+    padding-left: 2rem;
+}}
+
+.edit-profile-container .profile-edit-form {
+    margin-top: 1rem;
+}
+@media screen and (min-device-width: 768px) and (-webkit-min-device-pixel-ratio: 1){
+.profile-edit-form {
+    padding-left: 2rem;
+    padding-right: 2rem;
+}}
+
+@media screen and (min-device-width: 768px) and (-webkit-min-device-pixel-ratio: 1){
+.form-input-group {
+    display: flex;
+}}
+
+@media screen and (min-device-width: 768px) and (-webkit-min-device-pixel-ratio: 1){
+.form-input-group .input-group-1, .form-input-group .input-group-2 {
+    width: 100%;
+}}
+
+.edit-profile-container .form-group {
+    padding-left: 1.2rem;
+    padding-right: 1.2rem;
+}
+
+@media screen and (min-device-width: 768px) and (-webkit-min-device-pixel-ratio: 1){
+.form-group {
+    margin-bottom: 1.5rem;
+}}
+
+.form-group {
+    margin-bottom: 1rem;
+}
+
+.input-name-label {
+    font-family: OS-semibold,sans-serif!important;
+    color: #3d3d3d;
+    padding-left: 6px;
+    font-size: .9rem;
+}
+
+label {
+    display: inline-block;
+}
+
+.input-name-label span {
+    color: red;
+    font-size: 1.25rem!important;
+}
+
+.edit-profile-container .form-group input {
+    height: 3rem;
+    border-radius: 0.5rem!important;
+    width: 100%!important;
+    border: 1px solid #bebebe;
+}
+
+.invalid-feedback {
+    display: none;
+    width: 100%;
+    margin-top: 0.25rem;
+    font-size: .875em;
+    color: #dc3545;
+}
+
+.form-group .invalid-feedback p {
+    font-family: OS-semibold,sans-serif;
+}
+
+.contact-cc {
+    display: flex!important;
+    justify-content: center!important;
+    margin-left: 1.25rem;
+    margin-right: 1.25rem;
+}
+
+.contact-cc span {
+    text-align: center!important;
+    color: red;
+    font-family: OS-medium,sans-serif;
+    font-size: .86rem;
+}
+
+.contact-cc span a {
+    color: #0078ac!important;
+    font-family: OS-semibold,sans-serif;
+    text-decoration: underline!important;
+}
+
+@media screen and (min-device-width: 768px) and (-webkit-min-device-pixel-ratio: 1){
+.update-btn-div {
+    display: flex!important;
+    justify-content: center!important;
+    align-items: center!important;
+}}
+
+.update-btn-div {
+    padding: 1.25rem;
+}
+
+.edit-profile-container .profile-edit-form button {
+    width: 100%;
+    background-color: #d2112c;
+    border: none;
+    border-radius: 0.5rem;
+    height: 3rem;
+    font-family: MontserratSemibold,sans-serif;
+    color: #fff;
+    font-size: 1rem;
+    text-align: center;
+}
+
+[type=button]:not(:disabled), [type=reset]:not(:disabled), [type=submit]:not(:disabled), button:not(:disabled) {
+    cursor: pointer;
+}
+
+@media screen and (min-device-width: 768px) and (-webkit-min-device-pixel-ratio: 1){
+.update-btn-div button {
+    width: 35%!important;
+}}
+
+.network-bar-wrapper {
+    width: 100%;
+    position: fixed;
+    height: 2rem;
+    bottom: 0;
+}
+
+.network-bar-wrapper .offline-wrap {
+    height: 2rem;
+    width: 100%;
+    background-color: #000;
+    text-align: center;
+    padding: 5px!important;
+}
+
+.offline-wrap span {
+    color: #fff!important;
+    font-family: OS-medium,sans-serif;
+    font-size: 1rem;
+}
+
+.userDp-div span {
+    font-family: MontserratBold,sans-serif;
+    font-size: 1.5rem;
+    font-weight: 600;
+}

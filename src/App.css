@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+@font-face {
+  font-family: regular;
+  src: url(./assets/fonts/Montserrat-SemiBold.ttf);
+}
+
+/* *{
+  font-family: regular;
+} */
